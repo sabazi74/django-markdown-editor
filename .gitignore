@@ -7,3 +7,4 @@ venv/
 *.pyc
 *note
 *backup*
+venv/
